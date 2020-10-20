@@ -1,6 +1,6 @@
-https://blog.csdn.net/zpalyq110/article/details/79527653
-https://blog.csdn.net/BF02jgtRS00XKtCx/article/details/82719765
-https://github.com/tushushu/imylu/tree/master/imylu   各类算法的实现
+- https://blog.csdn.net/zpalyq110/article/details/79527653
+- https://blog.csdn.net/BF02jgtRS00XKtCx/article/details/82719765
+- https://github.com/tushushu/imylu/tree/master/imylu   各类算法的实现
 
 
 训练：
